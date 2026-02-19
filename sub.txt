@@ -1,0 +1,2 @@
+vless://8bcec81a-64fc-4b16-9d2d-feb931382de7@87.248.154.199:1500?security=none&type=tcp&headerType=&path=&host=#no%20DNS
+vless://f888c12e-1e73-4548-bf82-2ecd65682c24@185.226.93.60:2053?security=&encryption=none&headerType=none&type=tcp#Turkey-Normal
