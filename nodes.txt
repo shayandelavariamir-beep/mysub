@@ -1,4 +1,4 @@
-vless://ee9926e7-3e4f-4b32-9943-67402891a6c8@sr3.xp-server.lol:2082?encryption=none&security=none&type=tcp#%F0%9F%93%88%F0%9F%87%AB%F0%9F%87%AE%7C@XP_Server-%F0%9F%87%AB%F0%9F%87%AE-5216424948-61865%7C27.14GB%F0%9F%93%8A%7C350D,6H%E2%8F%B3
+vless://ee9926e7-3e4f-4b32-9943-67402891a6c8@sr3.xp-server.lol:2082?encryption=none&security=none&type=tcp#%F0%9F%93%88%F0%9F%87%AB%F0%9F%87%AE%7C@XP_Server-%F0%9F%87%AB%F0%9F%87%AE-5216424948-61865%7C27.14GB%F0%9F%93%8A%7C349D,23H%E2%8F%B3
 vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@randvip.irannoweb.art:2083?security=none&type=ws&headerType=&path=%2F&host=#%E2%8F%B325%D8%B1%D9%88%D8%B2%20%D9%88%209.88%20GB%20%D8%A8%D8%A7%D9%82%DB%8C%D9%85%D8%A7%D9%86%D8%AF%D9%87%F0%9F%94%8B
 vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@randvip.irannoweb.art:2083?security=none&type=ws&headerType=&path=%2F&host=#%F0%9F%93%9D%20ShopVMess_61007
 vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@devip.irannoweb.art:8081?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86
