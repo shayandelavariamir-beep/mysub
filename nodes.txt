@@ -1,1 +1,1 @@
-vless://ee9926e7-3e4f-4b32-9943-67402891a6c8@sr3.xp-server.lol:2082?encryption=none&security=none&type=tcp#%F0%9F%93%88%F0%9F%87%AB%F0%9F%87%AE%7C@XP_Server-%F0%9F%87%AB%F0%9F%87%AE-5216424948-61865%7C26.58GB%F0%9F%93%8A%7C348D%E2%8F%B3
+vless://ee9926e7-3e4f-4b32-9943-67402891a6c8@sr3.xp-server.lol:2082?encryption=none&security=none&type=tcp#%F0%9F%93%88%F0%9F%87%AB%F0%9F%87%AE%7C@XP_Server-%F0%9F%87%AB%F0%9F%87%AE-5216424948-61865%7C26.58GB%F0%9F%93%8A%7C347D,19H%E2%8F%B3
