@@ -1,14 +1,1 @@
-vless://ee9926e7-3e4f-4b32-9943-67402891a6c8@sr3.xp-server.lol:2082?encryption=none&security=none&type=tcp#%F0%9F%93%88%F0%9F%87%AB%F0%9F%87%AE%7C@XP_Server-%F0%9F%87%AB%F0%9F%87%AE-5216424948-61865%7C26.58GB%F0%9F%93%8A%7C348D,9H%E2%8F%B3
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@randvip.irannoweb.art:2083?security=none&type=ws&headerType=&path=%2F&host=#%E2%8F%B323%D8%B1%D9%88%D8%B2%20%D9%88%209.87%20GB%20%D8%A8%D8%A7%D9%82%DB%8C%D9%85%D8%A7%D9%86%D8%AF%D9%87%F0%9F%94%8B
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@randvip.irannoweb.art:2083?security=none&type=ws&headerType=&path=%2F&host=#%F0%9F%93%9D%20ShopVMess_61007
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@devip.irannoweb.art:8081?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@flvip.irannoweb.art:8082?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@frvip.irannoweb.art:8083?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@nlvip.irannoweb.art:8084?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%D9%87%D9%84%D9%86%D8%AF
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@ngvip.irannoweb.art:8092?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%7C%20%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@alvip.irannoweb.art:8090?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%A6%F0%9F%87%B1%20Albani%20%7C%20%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@sevip.irannoweb.art:8085?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%D8%B3%D9%88%D8%A6%D8%AF
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@trvip.irannoweb.art:8086?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@ukvip.irannoweb.art:8087?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@cavip.irannoweb.art:8091?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7
-vless://98b86da3-20ad-49f2-bca2-42f1b28af8b4@usvip.irannoweb.art:8089?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
+vless://ee9926e7-3e4f-4b32-9943-67402891a6c8@sr3.xp-server.lol:2082?encryption=none&security=none&type=tcp#%F0%9F%93%88%F0%9F%87%AB%F0%9F%87%AE%7C@XP_Server-%F0%9F%87%AB%F0%9F%87%AE-5216424948-61865%7C26.58GB%F0%9F%93%8A%7C348D,7H%E2%8F%B3
